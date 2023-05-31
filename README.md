@@ -1,6 +1,6 @@
 # Case-Studies
 
-<h2> Fitness and Nutrition <a href="https://github.com/Artuk009/Case-Studies/tree/6e74e24de52728bbf8b02cf39f8462b9031e851f/MyFitnessAndNutrition">Click Here</a> </h2>
+<h2> Fitness and Nutrition: <a href="https://github.com/Artuk009/Case-Studies/tree/6e74e24de52728bbf8b02cf39f8462b9031e851f/MyFitnessAndNutrition">Click Here</a> </h2>
 <p>
   <ul>
     <li>This series of notebooks illustrates my workout routine and dietary habits.</li>
