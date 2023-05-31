@@ -1,6 +1,6 @@
 # Case-Studies
 
-<h2> Fitness and Nutrition </h2>
+<h2> Fitness and Nutrition <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> </h2>
 <p>
   <ul>
     <li>This series of notebooks illustrates my workout routine and dietary habits.</li>
