@@ -13,7 +13,7 @@
 <p>
   <ul>
     <li>This section includes projects related to the Google Analytics Certificate.</li>
-    <li>The <a href="https://github.com/Artuk009/Case-Studies/tree/dc43770e9dccab681fabf47b8afbfd5a70046226/Google%20Data%20Analytics/BikeShare">Bike Share Notebook</a> details a project using data from a fictional cycling rideshare company that wants to gain insights on how to encourage their casual riders to upgrade to being members. </li>
+    <li>The <a href="https://github.com/Artuk009/Case-Studies/tree/dc43770e9dccab681fabf47b8afbfd5a70046226/Google%20Data%20Analytics/BikeShare">Bike Share Notebook</a> details a project using data from a fictional cycling rideshare company that wants to gain insights on how to encourage their casual riders to upgrade to a full membership. </li>
    
   </ul>
 </p>
