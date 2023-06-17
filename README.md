@@ -15,6 +15,6 @@ This series of notebooks illustrate my workout routine and dietary habits.
   This section includes projects related to the Google Analytics Certificate.
   <ul>
     <li>The <a href="https://github.com/Artuk009/Case-Studies/tree/486324bcd4c06f57770c333d23cf5c9cce8078b5/Google%20Data%20Analytics/BikeShare">Bike Share Notebook</a> details a project using data from a fictional cycling rideshare company that wants to gain insights on how to encourage their casual riders to upgrade to a full membership. The main tools used here are Pandas and Seaborn. </li>
-    <li> The <a href="https://github.com/Artuk009/Case-Studies/tree/486324bcd4c06f57770c333d23cf5c9cce8078b5/Google%20Data%20Analytics/BikeShare">Bellabeat Notebook</a> is an analysis of smart device usage for a fictional client who distributes health and fitness products centered on women's health and well-being. This project focuses on the use of SQL and Tableau to conduct analysis and visualization with just a little Pandas as a helper for presentation. </li>
+    <li> The <a href="https://github.com/Artuk009/Case-Studies/tree/20d1619c01b0984d13353e6ece535cc5b2e1378c/Google%20Data%20Analytics/Bellabeat">Bellabeat Notebook</a> is an analysis of smart device usage for a fictional client who distributes health and fitness products centered on women's health and well-being. This project focuses on the use of SQL and Tableau to conduct analysis and visualization with just a little Pandas as a helper for presentation. </li>
   </ul>
 </p>
