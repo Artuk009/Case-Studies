@@ -10,11 +10,20 @@ This series of notebooks illustrates my workout routine and dietary habits.
     <li>I use this <a href="https://github.com/Artuk009/WorkoutLog">WorkoutLog</a> Android app that I developed to record exercise data at the gym. (Kotlin, SQK, and Android Studio) </li>
   </ul>
 </p>
-<h2> <a href="https://github.com/Artuk009/Case-Studies/tree/486324bcd4c06f57770c333d23cf5c9cce8078b5/Google%20Data%20Analytics">Google Data Analytics</a> </h2>
+
+<h2> <a href="https://github.com/Artuk009/Case-Studies/tree/d4cdb00a3ec4329d211beab13deef323626ae16f/GoogleDataAnalytics">Google Data Analytics</a> </h2>
 <p>
   This section includes projects related to the Google Analytics Certificate.
   <ul>
-    <li>The <a href="https://github.com/Artuk009/Case-Studies/tree/486324bcd4c06f57770c333d23cf5c9cce8078b5/Google%20Data%20Analytics/BikeShare">Bike Share notebook</a> details a project using data from a fictional cycling rideshare company that wants to gain insights on how to encourage their casual riders to upgrade to a full membership. The main tools used here are Pandas and Seaborn. </li>
-    <li> The <a href="https://github.com/Artuk009/Case-Studies/tree/20d1619c01b0984d13353e6ece535cc5b2e1378c/Google%20Data%20Analytics/Bellabeat">Bellabeat notebook</a> is an analysis of smart device usage for a fictional client who distributes health and fitness products centered on women's health and well-being. This project focuses on the use of SQL and Tableau to conduct analysis and visualization with just a little Pandas as a helper for presentation. </li>
+    <li>The <a href="https://github.com/Artuk009/Case-Studies/blob/d4cdb00a3ec4329d211beab13deef323626ae16f/GoogleDataAnalytics/BikeShare/case_study.ipynb">Bike Share notebook</a> details a project using data from a fictional cycling rideshare company that wants to gain insights on how to encourage their casual riders to upgrade to a full membership. The main tools used here are Pandas and Seaborn. </li>
+    <li> The <a href="https://github.com/Artuk009/Case-Studies/blob/d4cdb00a3ec4329d211beab13deef323626ae16f/GoogleDataAnalytics/Bellabeat/case_study.ipynb">Bellabeat notebook</a> is an analysis of smart device usage for a fictional client who distributes health and fitness products centered on women's health and well-being. This project focuses on the use of SQL and Tableau to conduct analysis and visualization with just a little Pandas as a helper for presentation. </li>
+  </ul>
+</p>
+
+<h2> <a href="https://github.com/Artuk009/Case-Studies/tree/d4cdb00a3ec4329d211beab13deef323626ae16f/GoogleAdvancedDataAnalytics">Google Advanced Data Analytics</a> </h2>
+<p>
+  This section includes projects related to the Google Advanced Analytics Certificate.
+  <ul>
+    <li>The <a href="https://github.com/Artuk009/Case-Studies/blob/d4cdb00a3ec4329d211beab13deef323626ae16f/GoogleAdvancedDataAnalytics/TikTok/case_study.ipynb">Tik Tok notebook</a> illustrates the process of EDA to discover insights for classifying claims made by videos submitted to the platform in the dataset provided by Tik Tok The main tools used here are Pandas and NumPy. </li>
   </ul>
 </p>
