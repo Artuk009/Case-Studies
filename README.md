@@ -20,10 +20,10 @@ This series of notebooks illustrates my workout routine and dietary habits.
   </ul>
 </p>
 
-<h2> <a href="https://github.com/Artuk009/Case-Studies/tree/d4cdb00a3ec4329d211beab13deef323626ae16f/GoogleAdvancedDataAnalytics">Google Advanced Data Analytics</a> </h2>
+<h2> <a href="https://github.com/Artuk009/Case-Studies/tree/4e561a1d7b876c4b212538cb94f22e1f75889492/GoogleAdvancedDataAnalytics">Google Advanced Data Analytics</a> </h2>
 <p>
   This section includes projects related to the Google Advanced Analytics Certificate.
   <ul>
-    <li>The <a href="https://github.com/Artuk009/Case-Studies/blob/d4cdb00a3ec4329d211beab13deef323626ae16f/GoogleAdvancedDataAnalytics/TikTok/case_study.ipynb">Tik Tok notebook</a> illustrates the process of EDA to discover insights for classifying claims made by videos submitted to the platform in the dataset provided by Tik Tok. The main tools used here are Pandas and NumPy. </li>
+    <li>The <a href="https://github.com/Artuk009/Case-Studies/blob/4e561a1d7b876c4b212538cb94f22e1f75889492/GoogleAdvancedDataAnalytics/TikTok/case_study.ipynb">Tik Tok notebook</a> illustrates the process of EDA to discover insights for classifying claims made by videos submitted to the platform in the dataset provided by Tik Tok. The main tools used here are Pandas and NumPy. </li>
   </ul>
 </p>
