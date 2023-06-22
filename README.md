@@ -24,6 +24,6 @@ This series of notebooks illustrates my workout routine and dietary habits.
 <p>
   This section includes projects related to the Google Advanced Analytics Certificate.
   <ul>
-    <li>The <a href="https://github.com/Artuk009/Case-Studies/blob/1d962873fcf351f5fe8adcf371c50d6123d058dc/GoogleAdvancedDataAnalytics/TikTok/case_study.ipynb">Tik Tok notebook</a> illustrates the process of EDA to discover insights for classifying claims made by videos submitted to the platform in the dataset provided by Tik Tok. The main tools used here are Pandas, Seaborn, and SciKit Learn. </li>
+    <li>The <a href="https://github.com/Artuk009/Case-Studies/blob/1d962873fcf351f5fe8adcf371c50d6123d058dc/GoogleAdvancedDataAnalytics/TikTok/case_study.ipynb">Tik Tok notebook</a> illustrates the process of EDA and Regression Analysis to discover insights for classifying claims made by videos submitted to the platform in the dataset provided by Tik Tok. The main tools used here are Pandas, Seaborn, and SciKit Learn. </li>
   </ul>
 </p>
